@@ -1,0 +1,144 @@
+- image: wolf1
+  title: For Sale
+  dimension:  40cm x 55cm
+  desc: Acrylic painting.
+  column: 1
+
+- image:  wolf2
+  title: Sold
+  dimension:  50cm x 50cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: wolf3
+  title: For Sale
+  dimension:  95cm x 70cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: wolf4
+  title: For Sale
+  dimension:  55cm x 55cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: wolf5
+  title: For Sale
+  dimension:  70cm x 80cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: tiger1
+  title: For Sale
+  dimension:  65cm x 45cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: tiger2
+  title: For Sale
+  dimension:  60cm x 45cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: tiger3
+  title: For Sale
+  dimension:  55cm x 55cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: lion1
+  title: For Sale
+  dimension:  100cm x 70cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: phanter1
+  title: For Sale
+  dimension:  50cm x 40cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: bear1
+  title: For Sale
+  dimension:  70cm x 50cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: horse9
+  title: For Sale
+  dimension:  50cm x 40cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: horse2
+  title: For Sale
+  dimension:  55cm x 70cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: horse3
+  title: For Sale
+  dimension:  50cm x 40cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: horse4
+  title: For Sale
+  dimension:  50cm x 65cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: horse5
+  title: For Sale
+  dimension:  45cm x 30cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: horse6
+  title: For Sale
+  dimension:  40cm x 30cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: horse7
+  title: For Sale
+  dimension:  40cm x 30cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: horse8
+  title: For Sale
+  dimension:  40cm x 30cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: horse1
+  title: For Sale
+  dimension:  55cm x 55cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: dog4
+  title: Sold
+  dimension:  50cm x 70cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: dog2
+  title: Sold
+  dimension:  70cm x 70cm
+  desc: Acrylic painting.
+  column: 2
+
+- image: dog3
+  title: Sold
+  dimension:  60cm x 80cm
+  desc: Acrylic painting.
+  column: 1
+
+- image: dog1
+  title: Sold
+  dimension:  70cm x 70cm
+  desc: Acrylic painting.
+  column: 2
+

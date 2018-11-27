@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="container content">
+
+    {{ content }}
+
+    <div class="row">
+
+        <div class="col s12 l6">
+        {% for item in site.data.items %}
+          {% if item.column == 1 %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
+        </div>
+
+        <div class="col s12 l6">
+        {% for item in site.data.items %}
+            {% if item.column == 2 %}
+            {% include card.html %}
+            {% endif %}
+        {% endfor %}
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,11 @@
+            <div class="card">
+                    <div class="card-image">
+                        <img class="materialboxed" src="images/{{item.image}}.jpg">
+                        {% if item.title %} <span class="card-title">{{ item.title }}</span> {% endif %}
+                        <a href="images/near/{{item.image}}.jpg" target="_blank" class="btn-floating halfway-fab waves-effect waves-light blue-grey" style="right: 80px;"><i class="material-icons">zoom_in</i></a>
+                        <a href="images/far/{{item.image}}_far.jpg" target="_blank" class="btn-floating halfway-fab waves-effect waves-light blue-grey"><i class="material-icons">zoom_out</i></a>
+                    </div>
+                    <div class="card-content">
+                        <p>{% if item.desc %}{{ item.desc }}<br>{% endif%} Size: {{ item.dimension }}</p>
+                    </div>
+            </div>
